@@ -212,7 +212,7 @@ export async function ChatApi(
 ): Promise<ChatResponse> {
   // If using Vite proxy (recommended below), this path stays relative.
   // Otherwise, use your full backend URL: "https://your-api.com/chat"
-  const BACKEND_URL = "/api/chat"; 
+  const BACKEND_URL = "http://127.0.0.1:8000/v1/chat"; 
 
   try {
     const response = await fetch(BACKEND_URL, {
@@ -223,7 +223,7 @@ export async function ChatApi(
       // Send the user message and the accumulated context to the backend
       body: JSON.stringify({ 
         message: message, 
-        context: prevContext 
+        //context: prevContext 
       }),
     });
 
