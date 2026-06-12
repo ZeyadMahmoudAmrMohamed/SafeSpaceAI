@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/SafeSpaceLogo.png" width="200" alt="SafeSpace AI logo" />
+<img src="public/safespace-logo.png" width="200" alt="SafeSpace AI logo" />
 
 # SafeSpace AI — Frontend
 
