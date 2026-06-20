@@ -11,6 +11,8 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat&logo=vite&logoColor=white)
 
+
+[Try it here!](https://duospace-safespace-ai-frontend.hf.space/about) 
 </div>
 
 ---
